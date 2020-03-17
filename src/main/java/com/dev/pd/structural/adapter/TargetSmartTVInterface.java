@@ -6,7 +6,7 @@ public interface TargetSmartTVInterface {
 
 	public void disconnectTV();
 
-	public void showMeny();
+	public void showMenu();
 
 	public void startPlay(long startTime);
 
