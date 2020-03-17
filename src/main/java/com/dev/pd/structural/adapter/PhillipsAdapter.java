@@ -25,7 +25,7 @@ public class PhillipsAdapter implements TargetSmartTVInterface {
 	}
 
 	@Override
-	public void showMeny() {
+	public void showMenu() {
 		phillipsSmartTVInterface.menu();
 	}
 

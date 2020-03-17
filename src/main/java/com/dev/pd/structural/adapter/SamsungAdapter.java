@@ -25,7 +25,7 @@ public class SamsungAdapter implements TargetSmartTVInterface {
 	}
 
 	@Override
-	public void showMeny() {
+	public void showMenu() {
 		samsungSmartTVInterface.openMenu();
 	}
 

@@ -20,7 +20,7 @@ public class SonyAdapter implements TargetSmartTVInterface {
 	}
 
 	@Override
-	public void showMeny() {
+	public void showMenu() {
 		sonySmartTVInterface.openMenu();
 	}
 
