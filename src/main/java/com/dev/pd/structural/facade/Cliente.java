@@ -10,5 +10,4 @@ public class Cliente {
 		PedidoMenuFacade serverRefresco = new PedidoMenuFacade();
 		serverRefresco.servirRefrescoYPostre();
 	}
-
 }
